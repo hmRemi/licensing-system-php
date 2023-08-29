@@ -1,0 +1,10 @@
+body {
+    background-image:url(assets/img/waves.14d98a23.svg),url(assets/img/wave2.15b68432.svg);
+    background-repeat:no-repeat;
+    background-position:100%;
+    background-size:cover;
+    text-decoration:none;
+    height:100vh;
+    background-color:#0f0f1a;
+    background-color:var(--ziue-main)
+}
